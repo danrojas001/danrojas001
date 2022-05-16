@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @darojas001
+- 👋 Hi, I’m @danrojas001
 - 👀 I’m interested in coding and automation
-- 🌱 I’m currently learning cloud application development
+- 🌱 I’m currently learning about cloud application development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
